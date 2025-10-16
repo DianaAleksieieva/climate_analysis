@@ -9,8 +9,6 @@ To see a smoother picture, the annual temperature was averaged into temperatures
 Moving farther was chosen to compare the temperature change of the first recorded decade, 1850-1860, with the latest recorded 2000-2010. Having latitude and longitude coordinates in the dataset, the average of the temperature change was calculated and plotted on the map. The results reveal a picture that the average temperature change is not uniformly distributed over the cities. The map shows that temperature change ranges from +0.7 °C to +3.4 °C. The biggest warming is observed in Canada (Montreal, Toronto, +3.4 °C), the northeastern United States (New York, +2.6 °C), Eastern Europe (+2 °C), and East Asia (+2.4 °C).
 
 ![alt text](image-3.png)
- 
-![alt text](image.png)
 
 When studying the phenomenon of uneven distribution of temperature changes, it was found that the temperature changes more where there are large areas of land, and where wind masses come from large areas of land. Also, the industrialization of cities is one of the factors of warming in these places.
 
